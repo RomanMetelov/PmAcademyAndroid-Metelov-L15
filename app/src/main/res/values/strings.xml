@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PmAcademyAndroid-Metelov-L15</string>
+    <string name="editor_name">Add new firstname + lastname to list</string>
+    <string name="button_action">Add to List</string>
+    <string name="hint_et_firstname">Firstname</string>
+    <string name="hint_et_lastname">Lastname</string>
 </resources>
